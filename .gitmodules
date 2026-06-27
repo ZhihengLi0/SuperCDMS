@@ -3,4 +3,4 @@
 	url = https://github.com/ZhihengLi0/urop.git
 [submodule "column"]
 	path = column
-	url = https://github.com/ZhihengLi0/column.git
+	url = https://github.com/ZhihengLi0/column_monitor.git
