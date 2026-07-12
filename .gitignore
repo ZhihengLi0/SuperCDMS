@@ -13,3 +13,4 @@ ai/
 *.docx
 *.txt
 .DS_Store
+cdms_spotlight/
